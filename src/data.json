@@ -1,0 +1,73 @@
+{
+    "movies": {
+      "1": {
+        "title": "Os Simpsons: Homer Papai Noel",
+        "description": "Quando o famoso mentalista britânico Derren Brown chega a Springfield para um experimento de Natal, as coisas dão terrivelmente errado, pois Homer fica hipnotizado, acreditando que é o Papai Noel. Uma alegre reação em cadeia ocorre por toda a cidade, levando todos a questionar suas crenças e explorar o significado de \"milagre\".",
+        "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lWw8IdW3D8JMMfGwIM9pGCjgwGv.jpg",
+        "play": "https://embed.warezcdn.link/filme/tt34791030"
+      },
+      "2": {
+        "title": "Arca de Noé",
+        "description": "Vini é um ratinho poeta muito tímido enquanto Tom é um grande músico. Os dois sonham em espalhar alegria com suas canções, mas o dilúvio acaba com todos os seus planos. Assim, os dois armam um plano mirabolante para entrar na arca de Noé.",
+        "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iI79rRbcwPKVlbEN5Sc4EwppRpa.jpg",
+        "play": "https://embed.warezcdn.link/filme/tt8637446"
+      },
+      "3": {
+        "title": "Red: Crescer é uma Fera",
+        "description": "Mei, de treze anos, está experimentando a estranheza de ser uma adolescente com uma reviravolta – quando ela fica muito animada, ela se transforma em um panda vermelho gigante.",
+        "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qSoLBerH2841Ha4W0LYkexftlpc.jpg",
+        "play": "https://embed.warezcdn.link/filme/tt8097030"
+      }
+    },
+
+
+
+
+    "series": {
+      "4": {
+        "title": "Dois Homens e Meio",
+        "description": "A vida mulherenga do solteirão Charlie é afetada quando seu irmão divorciado e seu sobrinho de língua afiada vão morar com ele.",
+        "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg",
+        "play": "https://embed.warezcdn.link/serie/tt0369179"
+      },
+      "5": {
+        "title": "Turma da Mônica: Origens",
+        "description": "Mônica, Magali, Milena, Cebolinha, Cascão e Milena se conhecem em um hotel do Limoeiro, mas precisam superar uma competição e suas questões pessoais para dar origem à Turma da Mônica.",
+        "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/sXrk9n4U2PAcACEtxzlUwtKjmd2.jpg",
+        "play": "https://embed.warezcdn.link/serie/tt30496489"
+      },
+      "6": {
+        "title": "Arcane",
+        "description": "Em meio ao conflito entre as cidades-gêmeas de Piltover e Zaun, duas irmãs lutam em lados opostos de uma guerra entre tecnologias mágicas e convicções incompatíveis.",
+        "image":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3Tzf6k537PnhOEwaSRNCSxedLS.jpg",
+        "play": "https://embed.warezcdn.link/serie/tt11126994"
+
+      },
+
+      "7": {
+        "title": "The Truck",
+        "description": "Um objeto misterioso aparece no litoral, revelando uma empresa secreta de casamentos e a estranha relação de um casal.",
+        "image":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3YQtEqg923Os5w5Qg8sbQL41shw.jpg",
+        "play": "https://embed.warezcdn.link/serie/tt26773401"
+
+      },
+
+      "8": {
+        "title": "Toy Story",
+        "description": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
+        "image":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AptcisAVyZqBllXLEGje8MjKzJI.jpg",
+        "play": "https://embed.warezcdn.link/filme/tt0114709"
+
+      },
+
+      "9": {
+        "title": "Round 6",
+        "description": "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.",
+        "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+        "play": "https://embed.warezcdn.link/serie/tt10919420"
+      }
+
+      
+    }
+  }
+  
