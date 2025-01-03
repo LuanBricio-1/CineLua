@@ -8,17 +8,6 @@ function Header() {
                     <i className="bi bi-moon-stars-fill text-4xl hover:text-5xl mr-6"></i>
                     Home
                 </a>
-
-                <a href="/filmes" className="text-white text-center hover:cursor-pointer flex flex-col">
-                    <i className="bi bi-film text-4xl hover:text-5xl mr-6"></i>
-                    Filmes
-                </a>
-                
-
-                <a href="/series" className="text-white text-center hover:cursor-pointer flex flex-col">
-                    <i className="bi bi-tv text-4xl hover:text-5xl mr-6"></i>
-                    Series
-                </a>
             </nav>
 
         </header>
